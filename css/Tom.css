@@ -26,11 +26,17 @@ header img{
 
 main{
 	max-width: 100%;
-	margin:auto;
+
 }
+
 
 main img{
 	max-width: 100%;
+}
+
+main h2, p{
+	padding-left:  25px;
+	padding-right: 25px;
 }
 
 footer{
