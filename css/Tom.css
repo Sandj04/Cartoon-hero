@@ -40,6 +40,10 @@ main h2, p{
 	padding-right: 25px;
 }
 
+main ol, ul{
+	padding-left: 60px;
+}
+
 footer{
 	background-color: #72945c;
 	padding: 15px;
