@@ -60,3 +60,7 @@ a:link, a:visited {
 a:hover, a:active {
   color: #0083A4;
 }
+
+h2{
+	margin: 40px 0 10px
+}
